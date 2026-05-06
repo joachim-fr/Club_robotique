@@ -1,4 +1,3 @@
-ANCIEN : 
 10 digital => ENA driveur moteur
 9 digital => IN1 driveur moteur
 8 digital => IN2 driveur moteur
@@ -9,75 +8,19 @@ ANCIEN :
 3 digital => OUT Capteur de couleur droit
 2 digital => OUT Capteur de couleur gauche
 
-22 digital => capteur nb G3
-24 digital => capteur nb G1
-23 digital => capteur nb G4
-25 digital => capteur nb G2
+34 digital => capteur nb Q1 (le plus a gauche)
+35 digital => capteur nb Q2
+36 digital => capteur nb Q3
+37 digital => capteur nb Q4
+38 digital => capteur nb Q5
+39 digital => capteur nb Q6
 
-53 digital => capteur nb D1
-51 digital => capteur nb D4
-50 digital => capteur nb D3
-52 digital => capteur nb D2
+4 digital => set emmiter pin
 
-31 digital => CTRL capteur gauche suivi ligne (qtrg.setEmitterPin(31);)
-45 digital => CTRL capteur gauche suivi ligne (qtrd.setEmitterPin(45);)
+50 digital => capteur couleur S0
+51 digital => capteur couleur S1
+52 digital => capteur couleur S2
+53 digital => capteur couleur S3
 
-26 digital => capteur couleur S3g (gauche)
-28 digital => capteur couleur S1g (gauche)
-27 digital => capteur couleur S2g (gauche)
-29 digital => capteur couleur S0g (gauche)
-
-49 digital => capteur couleur S0d (droite)
-47 digital => capteur couleur S2d (droite)
-46 digital => capteur couleur S3d (droite)
-48 digital => capteur couleur S1d (droite)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NOUVEAU : 
-10 digital => ENA driveur moteur
-9 digital => IN1 driveur moteur
-8 digital => IN2 driveur moteur
-7 digital => IN3 driveur moteur
-6 digital => IN4 driveur moteur
-5 digital => ENB driveur moteur
-
-3 digital => OUT Capteur de couleur droit
-2 digital => OUT Capteur de couleur gauche
-
-A0 digital => capteur nb Q1 (le plus a gauche)
-A1 digital => capteur nb Q2
-A2 digital => capteur nb Q3
-A3 digital => capteur nb Q4
-A4 digital => capteur nb Q5
-A5 digital => capteur nb Q6
-
-22 digital => capteur couleur S0g (gauche)
-23 digital => capteur couleur S1g (gauche)
-24 digital => capteur couleur S2g (gauche)
-25 digital => capteur couleur S3g (gauche)
-
-50 digital => capteur couleur S0d (droite)
-51 digital => capteur couleur S1d (droite)
-52 digital => capteur couleur S2d (droite)
-53 digital => capteur couleur S3d (droite)
-
-
-
-
-QTRAEXAMPLES PPPPPPPPPPPPPAAAAAAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRR PIIIIIIIIIIIITTTTTTTTTTTIIIIIIIIIIIE.
+2 digital => out capteur couleur gauche
+3 digital => out capteur couleur droite
